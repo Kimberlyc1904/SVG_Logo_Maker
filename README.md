@@ -40,7 +40,7 @@ To use the Logo Maker, aswer each of the question regarding shape, shape color, 
 https://github.com/Kimberlyc1904/SVG_Logo_Maker
 
 
-![screenshot](/assets/images/ScreenShot.png)
+![screenshot](images/ScreenShot.png)
 
 ## Credits
 
