@@ -1,7 +1,7 @@
 # SVG_Logo_Maker
 SVG_Logo_Maker
 
-## Weather_Dashboard_Homework6
+## SVG Logo Maker
 
 - My motivation in building a SVG Logo Maker is to get better at JavaScripting.
 - I built this SVG Logo Maker to allow someone to quickly create a logo using different shapes, text and colors.
@@ -35,12 +35,12 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Usage
 
-To use the Weather Dashboard, type type in a city to the search and click the "get city" button. You will be presented with current weather and the next 5 days of weather forcast.
+To use the Logo Maker, aswer each of the question regarding shape, shape color, text and text color and the svg file will auto generate.
 
 https://github.com/Kimberlyc1904/SVG_Logo_Maker
 
 
-![screenshot](assets/images/ScreenShot.png)
+![screenshot](/assets/images/ScreenShot.png)
 
 ## Credits
 
