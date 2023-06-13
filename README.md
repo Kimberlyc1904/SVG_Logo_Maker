@@ -37,8 +37,10 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 To use the Logo Maker, aswer each of the question regarding shape, shape color, text and text color and the svg file will auto generate.
 
+```
 https://github.com/Kimberlyc1904/SVG_Logo_Maker
-
+https://youtu.be/ug4UHpwJ3OI
+```
 
 ![screenshot](images/ScreenShot.png)
 
@@ -48,4 +50,6 @@ https://github.com/Kimberlyc1904/SVG_Logo_Maker
 Erwin Jocosing Student. @ github.com/ej619
 W3 Schools https://www.w3schools.com/
 ChatGPT https://chat.openai.com/
+Anastasia Warren Tutor
+youtube
 ```
